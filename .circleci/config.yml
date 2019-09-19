@@ -14,3 +14,4 @@ jobs:
           command: |
             echo $CIRCLR_REPOSITORY_URL
             echo $CIRCLE_BRANCH
+
